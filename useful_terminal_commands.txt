@@ -1,0 +1,31 @@
+C Programming is fun!
+
+Useful Terminal Commands:
+
+  pwd - Print the current working directory
+
+  ls - List all files in current working director
+
+  cd - Change the current working directory
+    USAGE: cd /some_directory_a/some_directory_b
+
+  touch - create file
+    USAGE: touch DESIRED_FILE_NAME
+
+  mkdir - create directory
+    USAGE: mkdir DESIRED_DIRECTORY_NAME
+  
+  SciTE - open a file with the scite text editor 
+    USAGE: scite SOME_FILE_NAME  e.g., scite hello_world.c
+    NOTE: the SciTE command is CASE SENSITIVE!
+
+  clear - clear the terminal window of all output
+
+Compileing a c program:
+  gcc SOURCE_FILE.c e.g., gcc hello_world.c
+
+Running your program:
+  1. compile the program and fix any syntax errors
+  2. run: ./a.out
+
+

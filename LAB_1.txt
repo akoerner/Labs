@@ -1,0 +1,38 @@
+Lab 1 Welcome to C
+
+In this lab we will:
+
+1. Create a file using the terminal and the "touch" command.
+    -open the terminal(on the desktop)
+    -use the touch command to create a file 
+    For example type: touch my_cool_file
+
+2. Edit the file you created in the previous step with a text editor and add an arbitrary message to it.
+    For example: edit the file and write "Hello, Science Club!"
+    be sure to save the file when you are done.
+
+2. Compile and run 3 example programs provided.  
+    The programs are: hello_world.c, primes.c, and fibonacci.c
+    -open the terminal(on the desktop)
+    -type the "ls" and hit the enter key to list all files in the directory
+    -compile the first program hello_world.c with gcc by typing:
+      gcc hello_world.c
+    -run the hello_world.c program after it has been compiled by typing:
+      ./a.out
+    -repeat this process for the other two programs: primes.c and fibonacci.c
+
+   
+Learning Objects
+  You should be able to:
+  1. create a file with the terminal/command line
+      -learn the "touch" and "ls" commands
+  2. edit or modify the file you created with the provided text editor.
+  3. compile and run all 3 example programs located in c_playground using gcc
+  
+Google is your friend! If you do not know how to do something think of a
+reasonable query and search for the answer on google. For example you 
+could use the following query to solve the first learning objective:
+  how to create a file in the terminal
+
+Which could result in the following help topic:
+https://stackoverflow.com/questions/39872512/what-command-makes-a-new-file-in-terminal
