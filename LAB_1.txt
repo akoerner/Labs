@@ -12,7 +12,7 @@ In this lab we will:
     For example: edit the file and write "Hello, Science Club!"
     be sure to save the file when you are done.
 
-2. Compile and run 3 example programs provided.  
+3. Compile and run 3 example programs provided.  
     The programs are: hello_world.c, primes.c, and fibonacci.c
     -open the terminal(on the desktop)
     -type the "ls" and hit the enter key to list all files in the directory
