@@ -11,10 +11,19 @@ Learning Objects
   3. Use the comment character "//"
   
 Instructions:
-  1. Open the lab2.c file in a text editor
+  1. Open the lab2.c file in a text editor (located in the c_playground directory/folder)
   2. Fix the syntax error and compile lab2.c
+     -open the terminal(on the desktop)
+     -type the "ls" and hit the enter key to list all files in the directory
+     -compile the lab2 program lab2.c with gcc by typing:
+      gcc hello_world.c
+     -fix syntax error repeat this process.
+     -once lab2.c compiles WITHOUT ERRORS run it after it has been compiled by 
+     typing :
+      ./a.out
+     HINT: you must hit the "ENTER/RETURN" key after every command to execute it
   3. Fix BOTH semantic errors.
-  3. Compile lab2.c and run it.
+     -repeat step 2. until all semantic errors are fixed.
   4. Once your output looks exactly like the output below the lab is done.
 
 The lab 2 program should print the numbers 1-10.
