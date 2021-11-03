@@ -1,1 +1,36 @@
-Hello, World!
+Lab 2: Debugging 101
+
+The comment charater in c which is: "//" tells the compiler not to compile a line.
+This allows a programmer to add notes, descriptions, and otherwise document 
+in-line with the source code.
+
+Learning Objects
+  You should be able to:
+  1. Correct a syntax error(lab2.c will not compile until you correct this)
+  2. Correct a symetic errors
+  3. Use the comment charater "//"
+  
+Instructions:
+  1. Open the lab2.c file in a text editor
+  2. Fix the syntax error and compile lab2.c
+  3. Fix BOTH semantic errors.
+  3. Compile lab2.c and run it.
+  4. Once your output looks exactly like the output below the lab is done.
+
+The lab 2 program should print the numbers 1-10.
+Once you have corrected the syntax and sementic 
+errors the output should look EXACTLY like the 
+following:
+
+OUTPUT
+Hello, Lab#2!
+i: 1
+i: 2
+i: 3
+i: 4
+i: 5
+i: 6
+i: 7
+i: 8
+i: 9
+i: 10
