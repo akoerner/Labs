@@ -1,0 +1,33 @@
+Lab 3: Variables in Data types
+
+In this lab you will define or declare 3 variables of types:
+int, float, and char in the provided variables.c program located
+in c_playground.
+
+Learning Objects
+  You should be able to:
+  1. Understand how do define a variable
+  2. Understand how to assign a value to a variable
+  
+Instructions:
+Define 3 variables
+
+1. Open variables.c located in c_playground with a text editor
+2. define 3 variables of data type int, float, and char
+3. assign any permitted or legal value to the three variables you defined.
+4. Save the program 
+5. open the terminal(on the desktop)
+6. compile the program variables.c with gcc by typing:
+     gcc variables.c
+   -If the program compiles copy the text and send it to me (andrew) in a private message on zoom
+   -You are done with the lab
+7. If the program fails to compile fix the syntax errors and repeat steps 2-6
+   -Check that you variable names/labels are valid, the data is valid (review 
+    slide 6), and that you have semicolons “;” at the end of every line
+
+
+
+
+
+Once you program(variables.c) compiles and you have sent it to 
+me with a private message on zoom your lab is done.
