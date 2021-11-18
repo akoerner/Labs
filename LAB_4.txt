@@ -1,0 +1,30 @@
+Lab 4: printf
+
+In this lab you will write a program that outputs your name and your grade
+level in school.
+
+The output of your program should look like the following:
+Andrew Grade: 17
+
+Learning Objects
+  You should be able to:
+  1. Understand how do define a variable
+  2. Understand how to use the printf function
+  
+Instructions:
+  Requirements:
+    - your program must print your name and grade level to the console
+      Example output:
+        Andrew Grade: 17
+    - your program must use a variable to store and print your grade level in school
+
+  1. Open printf.c located in c_playground with a text editor
+  2. Define 1 variable for your grade level (note you must use the proper data type)
+  3. Save the program 
+  4. open the terminal(on the desktop)
+  5. compile the program printf.c with gcc by typing:
+     example:  type gcc printf.c
+  6. Run the program
+      If your program output matches the requirement you are done with the lab
+  7. If the program fails to compile fix the syntax errors and repeat steps 2-6
+
