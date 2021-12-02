@@ -1,0 +1,19 @@
+Lab 4: Operators and Control Structures 
+
+Write a program that calculates prints the following:
+   * 1576 x 1234
+   *  If the result is greater than (>) 1900000 print word “Fizz” otherwise print “Buzz”
+
+Open lab5.c located in c_playground with a text editor
+1. Write your program with the above requirements 
+2. Save the program 
+3. open the terminal(on the desktop)
+4. compile the program printf.c with gcc by typing:
+     gcc printf.c
+5. Run the program
+   You are done with the lab
+6. If the program fails to compile fix the syntax errors and repeat steps 2-5
+
+When you are done send a screenshot of the source code and output to me in a PRIVATE MESSAGE ON ZOOM 
+
+If you get stuck review the program operators_and_if.c in the c_playground directory for hints.
