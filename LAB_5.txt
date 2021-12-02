@@ -2,7 +2,7 @@ Lab 4: Operators and Control Structures
 
 Write a program that calculates prints the following:
    * 1576 x 1234
-   *  If the result is greater than (>) 1900000 print word “Fizz” otherwise print “Buzz”
+   *  If the result is greater than (>) 1900000 print word Fizz otherwise print Buzz
 
 Open lab5.c located in c_playground with a text editor
 1. Write your program with the above requirements 
