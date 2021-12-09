@@ -1,0 +1,19 @@
+Lab 4: Arrays and Loops
+
+In lab6.c located in c_playground there is a provided integer array with 25 values.
+
+Write a program that prints all of the values in the provided array with the
+following requirements:
+   * You must use a loop 
+   * one value per line should be printed
+
+Open lab6.c located in c_playground with a text editor
+1. Write your program with the above requirements 
+2. Save the program 
+3. open the terminal(on the desktop)
+4. compile the program lab6.c with gcc by typing:
+     gcc lab6.c.c
+5. Run the program
+   You are done with the lab
+6. If the program fails to compile fix the syntax errors and repeat steps 2-5
+

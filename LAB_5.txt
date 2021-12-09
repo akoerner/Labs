@@ -8,8 +8,8 @@ Open lab5.c located in c_playground with a text editor
 1. Write your program with the above requirements 
 2. Save the program 
 3. open the terminal(on the desktop)
-4. compile the program printf.c with gcc by typing:
-     gcc printf.c
+4. compile the program lab5.c with gcc by typing:
+     gcc lab5.c
 5. Run the program
    You are done with the lab
 6. If the program fails to compile fix the syntax errors and repeat steps 2-5
