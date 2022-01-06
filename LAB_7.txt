@@ -1,0 +1,18 @@
+Lab 7: Functions
+
+
+Write a program that uses a function to calculate the sum of two integers
+
+Requirements:
+    Your program must have two functions defined and a main function
+        The first function should print “Hello, World!”
+        The second function should accept two integer values and add them together and return the value
+
+Example Output:
+
+Hello, World
+A: 33, B: 12
+A + B = 45
+
+Hint: use the example programs located in c_playground called function.c and function_2.c as help.
+
